@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="fluxes.svg"
+   inkscape:export-filename="/home/repos/waterloo/sci201/A2/fluxes.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -30,7 +33,7 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="876"
+     inkscape:window-width="796"
      inkscape:window-height="881"
      inkscape:window-x="0"
      inkscape:window-y="15"
@@ -90,7 +93,7 @@
            height="78.791901"
            x="84.852814"
            y="203.83405" /></flowRegion><flowPara
-         id="flowPara3781"></flowPara></flowRoot>    <text
+         id="flowPara3781" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="82.832512"
@@ -132,7 +135,7 @@
            height="90.913727"
            x="478.81232"
            y="413.94577" /></flowRegion><flowPara
-         id="flowPara3803"></flowPara></flowRoot>    <text
+         id="flowPara3803" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="462.64987"
@@ -142,7 +145,11 @@
          sodipodi:role="line"
          id="tspan3809"
          x="462.64987"
-         y="387.68182">Radius</tspan></text>
+         y="387.68182">Radius</tspan><tspan
+         sodipodi:role="line"
+         x="462.64987"
+         y="437.68182"
+         id="tspan3014" /></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 442.44681,751.33672 c -4.04061,2.69374 -8.68797,4.64737 -12.12183,8.08122 -3.43385,3.43386 -5.2586,8.17018 -8.08122,12.12184 -3.91426,5.47996 -8.08122,10.77496 -12.12183,16.16244 -4.71404,5.38748 -9.95077,10.35902 -14.14213,16.16244 -4.59817,6.36669 -7.55706,13.81236 -12.12183,20.20305 -5.56321,7.78849 -12.12183,14.81557 -18.18275,22.22335 -12.12183,14.81557 -24.40719,29.49884 -36.36549,44.44672 -4.79662,5.99577 -9.42809,12.12183 -14.14214,18.18274 -4.71404,6.06092 -9.62595,11.973 -14.14213,18.18275 -0.8857,1.21783 -0.95551,2.97581 -2.02031,4.04061 -5.24528,5.24528 -4.04061,-1.83131 -4.04061,6.06091 0,-14.14229 0,-6.73521 0,-22.22335 0,-3.36718 0.51201,-6.77351 0,-10.10153 0.3826,-10.23116 -6.46923,-18.61232 -8.08122,-28.28427 -1.21783,-7.30699 1.45279,-14.95943 0,-22.22336 -0.71122,-3.55613 -3.2539,-6.56132 -4.04061,-10.10152 -0.64262,-2.8918 0,-8.525 0,-12.12183"
