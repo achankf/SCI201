@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="421.35458"
+   height="305.64328"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="fluxes3.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="138.32005"
+     inkscape:cy="143.67825"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1596"
+     inkscape:window-height="881"
+     inkscape:window-x="0"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.42067,-42.545984)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.80327207"
+       id="rect2985"
+       width="383.28729"
+       height="40.196732"
+       x="57.044495"
+       y="169.40669" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.82489866"
+       id="rect2987"
+       width="385.85135"
+       height="2.1954064"
+       x="59.511448"
+       y="317.89374" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.53719401px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.70605,100.06201 0,219.57418 -9.56732,-37.77529 19.27138,0 -9.57743,37.8152"
+       id="path2989"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       x="71.110985"
+       y="53.991062"
+       id="text3759"
+       transform="scale(0.97989347,1.0205191)"
+       style="font-size:14px"><tspan
+         sodipodi:role="line"
+         id="tspan3761"
+         x="71.110985"
+         y="53.991062"
+         style="font-size:14px">Energy Flux </tspan><tspan
+         sodipodi:role="line"
+         x="71.110985"
+         y="71.491058"
+         style="font-size:14px"
+         id="tspan3822">(Solar in)</tspan><tspan
+         sodipodi:role="line"
+         x="71.110985"
+         y="88.991058"
+         style="font-size:14px"
+         id="tspan3819">S<tspan
+   style="font-size:14px;baseline-shift:sub"
+   id="tspan3817">0</tspan>S/4</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.53073108px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 186.96387,317.53342 0,-222.408568 -9.2195,38.262908 18.57075,0 -9.22923,-38.303336"
+       id="path2989-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       x="201.86781"
+       y="44.047073"
+       id="text3759-4"
+       transform="scale(0.82483678,1.2123611)"
+       style="font-size:11.7846632px"><tspan
+         sodipodi:role="line"
+         id="tspan3761-2"
+         x="201.86781"
+         y="44.047073"
+         style="font-size:11.7846632px">Energy Flux </tspan><tspan
+         sodipodi:role="line"
+         x="201.86781"
+         y="58.777901"
+         style="font-size:11.7846632px"
+         id="tspan3822-4">(Solar out)</tspan><tspan
+         sodipodi:role="line"
+         x="201.86781"
+         y="73.508728"
+         style="font-size:11.7846632px"
+         id="tspan3819-8">AS<tspan
+   style="font-size:11.7846632px;baseline-shift:sub"
+   id="tspan3817-3">0</tspan>S/4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.74077606px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="58.988716"
+       y="198.64659"
+       id="text3854"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0183244,0.98200533)"><tspan
+         sodipodi:role="line"
+         x="58.988716"
+         y="198.64659"
+         id="tspan3864">T<tspan
+   style="font-size:18.03175735px;baseline-shift:sub"
+   id="tspan3873">1</tspan>,S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.74077606px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="24.0625"
+       y="349.02145"
+       id="text3854-1"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0183244,0.98200534)"><tspan
+         sodipodi:role="line"
+         x="24.0625"
+         y="349.02145"
+         id="tspan3864-7">T<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan3899">E</tspan>,S</tspan></text>
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:0.87265927"
+       id="rect3941"
+       width="204.48122"
+       height="38.311104"
+       x="235.78192"
+       y="169.93469" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.37148371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 264.69085,318.07203 0,-108.03731 -9.29856,18.58661 18.72999,0 -9.30837,-18.60625"
+       id="path2989-2-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       x="343.22409"
+       y="183.57829"
+       id="text3759-5"
+       transform="scale(0.80961532,1.2351545)"
+       style="font-size:11.56719017px"><tspan
+         sodipodi:role="line"
+         id="tspan3761-8"
+         x="343.22409"
+         y="183.57829"
+         style="font-size:11.56719017px">Energy Flux </tspan><tspan
+         sodipodi:role="line"
+         x="343.22409"
+         y="198.03728"
+         style="font-size:11.56719017px"
+         id="tspan3822-5">(Earth out)</tspan><tspan
+         sodipodi:role="line"
+         x="343.22409"
+         y="212.49626"
+         style="font-size:11.56719017px"
+         id="tspan3819-7">σT<tspan
+   style="font-size:7.51877975px;baseline-shift:sub"
+   id="tspan4031">E</tspan><tspan
+   style="font-size:7.51877975px;baseline-shift:super"
+   id="tspan4033">4</tspan>S</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.30685019px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 372.95764,169.25838 0,-73.460001 -9.33065,12.637971 18.79463,0 -9.34049,-12.651331"
+       id="path2989-2-4-5-3"
+       inkscape:connector-curvature="0" />
+    <text
+       style="font-size:11.56719017px"
+       transform="scale(0.80961532,1.2351545)"
+       id="text4086-3"
+       y="100.31174"
+       x="464.30618"
+       xml:space="preserve"><tspan
+         id="tspan4092-2"
+         style="font-size:11.56719017px"
+         y="100.31174"
+         x="464.30618"
+         sodipodi:role="line">σT<tspan
+   style="font-size:7.51877928px;baseline-shift:sub"
+   id="tspan3215">1</tspan><tspan
+   id="tspan4096-2"
+   style="font-size:7.51877975px;baseline-shift:super">4</tspan>S</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.32112616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 374.3719,208.22214 0,80.51551 -9.32356,-13.85179 18.78035,0 -9.3334,13.86643"
+       id="path2989-2-4-5-3-4"
+       inkscape:connector-curvature="0" />
+    <text
+       style="font-size:11.56719017px"
+       transform="scale(0.80961532,1.2351545)"
+       id="text4086-3-5"
+       y="218.24353"
+       x="467.71658"
+       xml:space="preserve"><tspan
+         id="tspan4092-2-9"
+         style="font-size:11.56719017px"
+         y="218.24353"
+         x="467.71658"
+         sodipodi:role="line">σT<tspan
+   style="font-size:7.51877928px;baseline-shift:sub"
+   id="tspan3215-2">1</tspan><tspan
+   id="tspan4096-2-73"
+   style="font-size:7.51877975px;baseline-shift:super">4</tspan>S</tspan></text>
+  </g>
+</svg>
